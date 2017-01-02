@@ -10,7 +10,8 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:width="0dp"
-        android:hint="@string/edit_message" />
+        android:hint="@string/edit_message"
+        android:inputType="textCapSentences" />
 
     <Button
         android:layout_width="wrap_content"
